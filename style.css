@@ -172,3 +172,7 @@ body {
     flex-direction: column;
   }
 }
+
+p {
+  font-size: 4rem;
+}
